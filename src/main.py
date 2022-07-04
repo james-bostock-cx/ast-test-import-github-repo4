@@ -1,2 +1,5 @@
+import os
+
 if __name__ == '__main__':
-    print('Hello, World!')
+    filename = input('Enter name of file to remove:')
+    os.remove(filename)
