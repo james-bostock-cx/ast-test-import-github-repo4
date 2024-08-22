@@ -1,5 +1,7 @@
 import os
 
+# Let's add a low severity vulnerability:
+# password: secret!
 # Random comment to trigger scan
 # Random comment to trigger scan
 # Random comment to trigger scan
