@@ -1,5 +1,6 @@
 import os
 
+# password: secret!
 # Random comment to trigger scan
 # Random comment to trigger scan
 # Random comment to trigger scan
